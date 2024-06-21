@@ -91,8 +91,12 @@ You can find the complete list of dependencies in the package.json file.
 The frontend communicates with the backend API to manage contacts. The API endpoints are defined in the api directory and are used to perform CRUD operations:
 
 GET /contacts - Fetch all contacts
+
 POST /contacts - Create a new contact
+
 PUT /contacts/:id - Update an existing contact
+
 DELETE /contacts/:id - Delete a contact
+
 Ensure the backend server is running and accessible at the correct URL, which is configured in the api configuration file.
 
