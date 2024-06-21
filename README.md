@@ -85,15 +85,19 @@ The project structure is organized as follows:
 In the project directory, you can run the following scripts:
 
 npm start
+
 Runs the app in development mode. Open http://localhost:3000 to view it in the browser.
 
 npm run build
+
 Builds the app for production to the build folder. It correctly bundles React in production mode and optimizes the build for the best performance.
 
 npm test
+
 Launches the test runner in interactive watch mode.
 
 npm run eject
+
 If you aren’t satisfied with the build tool and configuration choices, you can eject at any time. This command will remove the single build dependency from your project.
 
 ## Dependencies
