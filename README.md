@@ -23,9 +23,7 @@ Before you begin, ensure you have met the following requirements:
 
 To install the necessary dependencies for this project, run the following command in the project directory:
 
-```bash
 npm install
--
 
 ## Running the Application
 
