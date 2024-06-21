@@ -11,8 +11,6 @@ This is the frontend part of the Contacts App, built using React and TypeScript.
 - [Available Scripts](#available-scripts)
 - [Dependencies](#dependencies)
 - [API Integration](#api-integration)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Prerequisites
 
@@ -27,6 +25,7 @@ To install the necessary dependencies for this project, run the following comman
 
 ```bash
 npm install
+
 
 ## Running the Application
 
