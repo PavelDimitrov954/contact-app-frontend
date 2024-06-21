@@ -39,25 +39,45 @@ The page will reload if you make edits. You will also see any lint errors in the
 The project structure is organized as follows:
 
 ├── public
+
 ├── src
+
 ├── api.ts
+
 │   ├── App.test.tsx
+
 │   ├── App.tsx
+
 │   ├── api.ts
+
 │   ├── components
+
 │       ├── ContactForm.tsx
+
 │       ├── ContactList.tsx
+
 │       ├── Login.tsx
+
 │   ├── context
+
 │       ├── AuthContext.tsx
+
 │   ├── index.css
+
 │   ├── index.tsx
+
 │   ├── logo.svg
+
 │   ├── react-app-env.d.ts
+
 │   ├── reportWebVitals.ts
+
 │   └── setupTests.ts
+
 └── tsconfig.json
+
 ├── package-lock.json
+
 ├── package.json
 
 ## Available Scripts
