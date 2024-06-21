@@ -29,6 +29,7 @@ To install the necessary dependencies for this project, run the following comman
 npm install
 
 ## Running the Application
+
 To start the development server, use the following command:
 npm start
 
@@ -37,6 +38,7 @@ This will start the app in development mode. Open http://localhost:3000 to view 
 The page will reload if you make edits. You will also see any lint errors in the console.
 
 ## Project Structure
+
 The project structure is organized as follows:
 
 ├── public
@@ -62,6 +64,7 @@ The project structure is organized as follows:
 ├── package.json
 
 ## Available Scripts
+
 In the project directory, you can run the following scripts:
 
 npm start
@@ -77,6 +80,7 @@ npm run eject
 If you aren’t satisfied with the build tool and configuration choices, you can eject at any time. This command will remove the single build dependency from your project.
 
 ## Dependencies
+
 The main dependencies used in this project are:
 
 React
@@ -86,6 +90,7 @@ React Router
 You can find the complete list of dependencies in the package.json file.
 
 ## API Integration
+
 The frontend communicates with the backend API to manage contacts. The API endpoints are defined in the api directory and are used to perform CRUD operations:
 
 GET /contacts - Fetch all contacts
